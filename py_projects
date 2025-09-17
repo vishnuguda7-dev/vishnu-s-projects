@@ -1,0 +1,5 @@
+#python program to give username
+name=input("enter your name")
+nickname=input("enter your nickname")
+username=f"{nickname}_{name}"
+print(f"your name would be,{username}")
